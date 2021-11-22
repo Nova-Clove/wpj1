@@ -1,0 +1,6 @@
+#server stop
+Ctrl+C 
+
+#run server
+python manage.py startapp ပေးချင်တဲ့ appname ပေး
+python manage.py startapp record
